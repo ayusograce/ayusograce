@@ -40,6 +40,52 @@ I'm **Grace Ayuso**, a Software Development student at Brigham Young University�
 
 ---
 
+# 🚀 Projects
+
+## 📚 [Book Discovery & Recommendation App](https://bookrecapp25.netlify.app/)
+A full-stack web application designed to help users discover new books through personalized recommendations.
+
+🔗 [**Repository**](https://github.com/ayusograce/bookRecApp.git)
+
+**Tech Stack:** Node.js, Express, EJS, MongoDB/Mongoose, JWT Authentication  
+**Main Features:**
+- User authentication with JWT and session management  
+- Book search, categories, and personalized recommendation flow  
+- Protected routes based on account type  
+- MVC architecture with data validation using `express-validator`  
+- Responsive UI
+
+---
+
+## 🧵 [HandCrafted Haven – Artisans Marketplace](https://handcraft-haven-ten.vercel.app/)
+A front-end project showcasing local artisans and their handmade products.
+
+🔗 [**Repository**](https://github.com/limanjohnson/handcraft-haven.git)
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Main Features:**
+- Product catalog with filtering  
+- Clean, modern, and accessible UI  
+- Sections for artisans, product details, and landing page  
+- Designed to highlight local craftsmanship and facilitate browsing
+
+---
+
+## 💼 [Personal Portfolio Website](https://graceayuso.netlify.app/)
+A bilingual portfolio (English/Spanish) to present professional projects, experience, and skills.
+
+🔗 [**Repository**](https://github.com/ayusograce/PORTFOLIO.git)
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Main Features:**
+- Multi-language support (i18n)  
+- Responsive layout  
+- Sections for projects, about, and contact  
+- Clean and modern design showcasing front-end abilities
+
+
+---
+
 ## 🔗 Let's Connect!
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/grace-ayuso/](https://www.linkedin.com/in/grace-ayuso/)  
