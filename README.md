@@ -57,7 +57,7 @@ A full-stack web application designed to help users discover new books through p
 
 ---
 
-## 🧵 [HandCrafted Haven – Artisans Marketplace](https://handcraft-haven-ten.vercel.app/)
+## 🧵 [HandCrafted Haven – Artisans Marketplace](https://handcraft-shop-gaaf.vercel.app/)
 A front-end project showcasing local artisans and their handmade products.
 
 🔗 [**Repository**](https://github.com/limanjohnson/handcraft-haven.git)
